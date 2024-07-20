@@ -20,4 +20,13 @@
     flex: 1;
     width: auto;
 }
-
+button{
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-top: 25px;
+}
